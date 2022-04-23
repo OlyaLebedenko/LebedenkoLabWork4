@@ -1,0 +1,2 @@
+drwxr-xr-x@ - lolya 11 апр 00:36  .git
+.rw-r--r--@ 0 lolya 20 апр 18:32  file_list.txt
